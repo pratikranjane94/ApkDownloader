@@ -1,0 +1,7 @@
+{
+  "apkFileDownloadFolder":"/home/bridgelabz6/Downloads/apk-downloader",
+  "chromeDriverPath":"chromedriver",
+  "credentialsPath":"credentials.json",
+  "chromeExtensionPath":"directapk.crx",
+  "csvDownloadFilePath":"Meta_data_files",
+}
